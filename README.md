@@ -18,4 +18,3 @@ A key objective of online fitness club systems is to simplify the entire member 
 
 ![Screenshot (70)](https://github.com/SSrishti24/Online-Fitness-Club-Website/assets/152152173/93f191af-2f8c-4e90-bd73-0a546832ce19)
 
-
